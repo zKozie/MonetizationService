@@ -1,0 +1,15 @@
+{
+  "name": "MonetizationService",
+  "tree": {
+    "$className": "Folder",
+    "init": {
+      "$path": "init.server.luau"
+    },
+    "Types": {
+      "$path": "Types.luau"
+    },
+    "Plots": {
+      "$path": "Plots.luau"
+    }
+  }
+}
