@@ -30,7 +30,9 @@
 			end
 		end)
 		```
-]]\n\nlocal MarketplaceService = game:GetService(\"MarketplaceService\")
+]]
+
+local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 
